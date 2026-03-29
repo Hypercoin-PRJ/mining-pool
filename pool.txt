@@ -87,7 +87,7 @@
           "link": "http://miningpool.hypercoin.network",
         "B8sp34FQ36pZ4MoShp6qUB23AnGrG4Doya": {
             "name": "KriptoKyng",
-            "link": "https://kriptokyng.com1"
+            "link": "https://kriptokyng.com"
         }
       }
     },
