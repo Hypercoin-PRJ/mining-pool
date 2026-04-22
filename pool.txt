@@ -91,7 +91,7 @@
         }
       }
     },
-    "unknown_miner_payout_addresses1": {
+    "unknown_miner_payout_addresses": {
           "somePayoutAddress": {
           }
       }
